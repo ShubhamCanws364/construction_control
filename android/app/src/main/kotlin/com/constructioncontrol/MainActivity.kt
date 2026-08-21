@@ -1,4 +1,4 @@
-package com.construction_control.construction_control
+package com.constructioncontrol
 
 import io.flutter.embedding.android.FlutterActivity
 
